@@ -1,0 +1,15 @@
+[0]
+AxisArrays = "0.4"
+ColorTypes = "0.10-0.11"
+DataFrames = ["0.20-0.21", "1"]
+DataStructures = "0.17-0.18"
+Distributions = "0.22-0.24"
+ImageBinarization = "0.2"
+Measurements = "2"
+OffsetArrays = "1"
+Pandas = "1"
+ProgressMeter = "1"
+PyCall = "1"
+ScatteredInterpolation = "0.3"
+StatsBase = "0.32-0.33"
+Unitful = "1"

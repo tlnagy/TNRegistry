@@ -3,3 +3,4 @@ uuid = "807e5f07-49d4-4a65-9763-2016bf3f2e4f"
 repo = "git@github.com:tlnagy/TNRegistry.git"
 
 [packages]
+b1480678-572a-4d60-ab1d-db2f300f29c9 = { name = "FluorescenceExclusion", path = "F/FluorescenceExclusion" }
