@@ -1,0 +1,5 @@
+name = "tn_registry"
+uuid = "807e5f07-49d4-4a65-9763-2016bf3f2e4f"
+repo = "git@github.com:tlnagy/TNRegistry.git"
+
+[packages]
